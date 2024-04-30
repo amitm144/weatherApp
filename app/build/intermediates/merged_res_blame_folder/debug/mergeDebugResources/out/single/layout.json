@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-mergeDebugResources-36:/layout/rv_my_locations.xml",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/rv_my_locations.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-mergeDebugResources-36:/layout/activity_current_location_selection.xml",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/activity_current_location_selection.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-mergeDebugResources-36:/layout/rv_forecast.xml",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/rv_forecast.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-mergeDebugResources-36:/layout/activity_locations_list.xml",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/activity_locations_list.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-mergeDebugResources-36:/layout/rv_location_search.xml",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/rv_location_search.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-mergeDebugResources-36:/layout/activity_locations_list.xml",
+        "source": "com.example.weatherapp-main-39:/layout/activity_locations_list.xml"
+    }
+]

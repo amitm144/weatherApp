@@ -1,0 +1,6 @@
+com.example.weatherapp.test.app-core-1.5.0-0 /Users/amitm/.gradle/caches/transforms-3/7abba1ccf7e617ca40dda2e4d64d6eef/transformed/core-1.5.0/res
+com.example.weatherapp.test.app-annotation-experimental-1.4.0-1 /Users/amitm/.gradle/caches/transforms-3/adf8177faa8ef9b802f4ffa709a7d2d8/transformed/annotation-experimental-1.4.0/res
+com.example.weatherapp.test.app-androidTest-2 /Users/amitm/AndroidStudioProjects/weatherApp/app/build/generated/res/resValues/androidTest/debug
+com.example.weatherapp.test.app-mergeDebugAndroidTestResources-3 /Users/amitm/AndroidStudioProjects/weatherApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.weatherapp.test.app-mergeDebugAndroidTestResources-4 /Users/amitm/AndroidStudioProjects/weatherApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.weatherapp.test.app-debugAndroidTest-5 /Users/amitm/AndroidStudioProjects/weatherApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

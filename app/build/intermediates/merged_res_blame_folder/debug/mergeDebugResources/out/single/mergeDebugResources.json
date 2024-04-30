@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/drawable_ic_refresh.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.weatherapp-debug-37:/drawable_icon.png.flat",
+        "source": "com.example.weatherapp-main-39:/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/layout_rv_forecast.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/rv_forecast.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/layout_activity_locations_list.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/activity_locations_list.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/drawable_ic_add.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/xml_backup_rules.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/layout_rv_location_search.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/rv_location_search.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/drawable_ic_touch_usd.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/drawable/ic_touch_usd.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/layout_rv_my_locations.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/rv_my_locations.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/drawable_ic_touch.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/drawable/ic_touch.xml"
+    },
+    {
+        "merged": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-debug-37:/layout_activity_current_location_selection.xml.flat",
+        "source": "/Users/amitm/.gradle/daemon/8.4/com.example.weatherapp-main-39:/layout/activity_current_location_selection.xml"
+    }
+]
